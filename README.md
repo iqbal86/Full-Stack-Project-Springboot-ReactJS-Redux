@@ -1,5 +1,5 @@
 # Full-Stack-Project-Springboot-ReactJS-Redux
-# Project Board:
+# Project Task Board:
 1. Create a RESTful API with Springboot
 2. Create a basic Project Board with ReactJS
 3. Consume the Springboot API with Axios
